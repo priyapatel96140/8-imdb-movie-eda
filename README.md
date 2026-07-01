@@ -97,3 +97,24 @@ The dataset contains information about 1000 movies including:
 ## Project Outcome
 
 The analysis provides valuable insights into audience behavior, movie performance, and industry trends that can help production companies make data-driven decisions.
+
+## How to Run This Project
+
+###  The Quick Way (No Git Required)
+1. Click the green **Code** button at the top right of this GitHub page.
+2. Click **Download ZIP** and unzip the files into a folder on your computer.
+3. Move your dataset (`7_top_5000_youtube_channels.csv`) into the same folder if it isn't already there.
+4. Open your terminal or command prompt, navigate to that folder, and run:
+   ```bash
+   pip install pandas numpy seaborn notebook
+   jupyter notebook
+
+
+## Author
+
+Priya Patel  
+Aspiring Data Analyst  
+Email: patelpriya18217@gmail.com    
+GitHub: [priyapatel96140](https://github.com/priyapatel96140)  
+
+If you like this project, feel free to give it a star!
